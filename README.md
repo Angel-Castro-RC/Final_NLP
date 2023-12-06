@@ -5,15 +5,17 @@ Fortnite 1
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F1_1_HuggingFace.ipynb
 
-for F1-1 I did the applied exploration followed the code and ran everything 
+for F1-1 I ran everything answered everything and did the applied exploration  
 
 2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F1_2_DataEvaluation.ipynb
 
-In Fortnite 1-2 i followed the code ran everything and also did the applied exploration 
+In Fortnite 1-2 i followed the code ran everything answered everything and did the applied exploration 
+
 
 3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F1_3_RougeSummarization.ipynb
 
-in F1-3 I ran everything and did the applied exploration 
+in F1-3 I ran everything answered everything and did the applied exploration 
+n 
 ___
 Fortnite 2
 
@@ -23,12 +25,16 @@ For F2-1 Ran everything
 
 2 https://github.com/Angel-Castro-RC/Final_NLP
 
-For F2-2 I ran everything and also did the applied exploration similar to F1-3
+For F2-2 I ran everything answered everything and did the applied exploration 
+similar to F1-3
 
-3
+3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F2_3_QuestionAnswering.ipynb
 
-4
+For F2-3 i ran everything answered everything and did the applied exploration 
 
+4 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F2_4_MarkovModels.ipynb
+
+for F2-4 I ran everything answered everything and did the applied exploration
 ___
 Fortnite 3 
 
