@@ -80,24 +80,46 @@ https://github.com/Angel-Castro-RC/Final_NLP/blob/main/Hypernym.py
 ___
 Fortnite 5
 
-1
+1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_1_Parsing.ipynb
 
-2
+For Fortnite 5-1 i ran all the code and did the exercises that were due 
 
-3
+2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_2_MachineLearning.ipynb
 
-4
+This fortnite 5-2 i ran all of the code and answer all of the questions 
+
+3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_3_NeuralNetworks.ipynb
+
+This fortnite 5-3 i ran all of the code and tried the applied exploration 
+
+4 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_4_Embeddings.ipynb
+
+This fortnite 5-4 i ran the code and answer all of the questions and also tried the applied exploration
+
+---
+
+This fortnite 5 i did a small project that is about parsing and using google api transalate i make so it translate a sentense to English and then it break it down into parsing 
+
+https://github.com/Angel-Castro-RC/Final_NLP/blob/main/sentence_splitter.py
 
 ___
 Fortnite 6
 
-1
+1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_1_NeuralLanguageModeling.ipynb
 
-2
+This fortnite i follow the code and did the applied exploration
 
-3
+2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_2_RecurrentNeuralNetworks.ipynb
 
-4
+this firtnite i ran the code and did the excersises 
+
+3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_3_EncoderDecoder.ipynb
+
+I did all of the code and questions and try appliedexploration
+
+4 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_4_LongTermRecurrence.ipynb
+
+i did all of the code and applied exploration
 
 ___
 Fortnite 7
