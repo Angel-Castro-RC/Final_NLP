@@ -1,5 +1,6 @@
 # Final_NLP
 Portfolio for every Fortnite 
+Angel R Castro 
 ___
 ## Fortnite 1 -  For this Fortnite, i did all of the code and applied exploration and just showed the applied exploration in-class demo - POINTs = 10 
 
