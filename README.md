@@ -123,7 +123,7 @@ I did all of the code and questions and tried applied exploration 6-3
 I did all of the code and applied exploration in 6-4
 
 ___
-Fortnite 7 For this fortnite I followed every part of the code ran everything tried to tune the models on different datasets and models and also tried to do a chatbot that was about gym tips but it did not work so I just presented the things I had 
+Fortnite 7 For this fortnite I followed every part of the code ran everything tried to tune the models on different datasets and models and also tried to do a chatbot that was about gym tips but it did not work so I just presented the things I had POINTS = 7
 
 1 https://github.co,mIAngel-Castro-RC/Final_NLP/blob/main/F7_1_TransferLearning.ipynb
 
