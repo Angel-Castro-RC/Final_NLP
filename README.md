@@ -18,7 +18,7 @@ In Fortnite 1-2 I followed the code ran everything answered everything and did t
 in F1-3 I ran everything answered everything and did the applied exploration 
 n 
 ___
-## Fortnite 2 - In this Fortnite i did the core practice and applied explorations and also presented the applied exploration in demo  POINTS = 9
+## Fortnite 2 - In this Fortnite i did the core practice and applied explorations and also presented the applied exploration in demo  POINTS = 8
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F2_1_MoreOnDatasets.ipynb
 
@@ -37,7 +37,7 @@ For F2-3 I ran everything answered everything and did the applied exploration
 
 for F2-4 I ran everything answered everything and did the applied exploration
 ___
-## Fortnite 3 In this Fortnite demo i did the applied exploration and all of the core practice and showed the applied exploration to the class - POINTS = 9
+## Fortnite 3 In this Fortnite demo i did the applied exploration and all of the core practice and showed the applied exploration to the class - POINTS = 8
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F3_1_Tokenization.ipynb
 
@@ -79,7 +79,7 @@ https://github.com/Angel-Castro-RC/Final_NLP/blob/main/guessing2.py
 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/Hypernym.py
 
 ___
-Fortnite 5 - For this Fortnite, I did all of the core practice and applied exploration and also a small project about parsing that translates a sentence to English and then breaks into parts - POINTS = 15
+## Fortnite 5 - For this Fortnite, I did all of the core practice and applied exploration and also a small project about parsing that translates a sentence to English and then breaks into parts - POINTS = 15
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_1_Parsing.ipynb
 
@@ -104,7 +104,7 @@ In Fortnite 5 I did a small project that was about parsing and using Google API 
 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/sentence_splitter.py
 
 ___
-Fortnite 6 - For this Fortnite i did the core practice, applied exploration, and did a video presenting the applied exploration on 6-4 but the video is too big to download - POINTS = 9
+## Fortnite 6 - For this Fortnite i did the core practice, applied exploration, and did a video presenting the applied exploration on 6-4 but the video is too big to download - POINTS = 8
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_1_NeuralLanguageModeling.ipynb
 
@@ -123,7 +123,7 @@ I did all of the code and questions and tried applied exploration 6-3
 I did all of the code and applied exploration in 6-4
 
 ___
-Fortnite 7 For this fortnite I followed every part of the code ran everything tried to tune the models on different datasets and models and also tried to do a chatbot that was about gym tips but it did not work so I just presented the things I had POINTS = 7
+## Fortnite 7 For this fortnite I followed every part of the code ran everything tried to tune the models on different datasets and models and also tried to do a chatbot that was about gym tips but it did not work so I just presented the things I had POINTS = 7
 
 1 https://github.co,mIAngel-Castro-RC/Final_NLP/blob/main/F7_1_TransferLearning.ipynb
 
