@@ -1,7 +1,7 @@
 # Final_NLP
 Portfolio for every Fortnite 
 ___
-## Fortnite 1 
+## Fortnite 1 -  For this Fortnite, i did all of the code and applied exploration and just showed the applied exploration in-class demo - POINTs = 10 
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F1_1_HuggingFace.ipynb
 
@@ -9,7 +9,7 @@ for F1-1 I ran everything answered everything and did the applied exploration
 
 2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F1_2_DataEvaluation.ipynb
 
-In Fortnite 1-2 i followed the code ran everything answered everything and did the applied exploration 
+In Fortnite 1-2 I followed the code ran everything answered everything and did the applied exploration 
 
 
 3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F1_3_RougeSummarization.ipynb
@@ -17,7 +17,7 @@ In Fortnite 1-2 i followed the code ran everything answered everything and did t
 in F1-3 I ran everything answered everything and did the applied exploration 
 n 
 ___
-## Fortnite 2
+## Fortnite 2 - In this Fortnite i did the core practice and applied explorations and also presented the applied exploration in demo  POINTS = 9
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F2_1_MoreOnDatasets.ipynb
 
@@ -36,7 +36,7 @@ For F2-3 I ran everything answered everything and did the applied exploration
 
 for F2-4 I ran everything answered everything and did the applied exploration
 ___
-## Fortnite 3 
+## Fortnite 3 In this Fortnite demo i did the applied exploration and all of the core practice and showed the applied exploration to the class - POINTS = 9
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F3_1_Tokenization.ipynb
 
@@ -52,10 +52,10 @@ For this F3-3 I just ran every part of the code
 
 4 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F3_4_SaulVarshavsky_SemanticFolding_Code.ipynb
 
-For this Fortnite i could not make the code run with the thing that we had to download, but i followed carefuly the code 
+For this Fortnite, i could not make the code run with the thing that we had to download, but I followed the code 
 
 ___
-## Fortnite 4 
+## Fortnite 4 - For this Fortnite, i did all of the core practice and applied exploration and also I presented in demo day a small project that is a guessing game about finding Hypernyms and Hyponyms - POINT 15
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F4_1_WordNet.ipynb
 
@@ -63,11 +63,11 @@ For F4-1 this Fortnite i ran all of the code and also did the applied exploratio
 
 2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F4_2_WordSenseDisambiguation.ipynb
 
-For this F4-2 Fortnite I just ran all of the code
+For this F4-2 Fortnite, I just ran all of the code
 
 3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F4_3_ContextFreeGrammars.ipynb
 
-This Fortnite F4-3 i ran all of the code and also did the applied exploration 
+For this Fortnite F4-3, i ran all of the code and also did the applied exploration 
 
 ---
 
@@ -78,58 +78,65 @@ https://github.com/Angel-Castro-RC/Final_NLP/blob/main/guessing2.py
 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/Hypernym.py
 
 ___
-Fortnite 5
+Fortnite 5 - For this Fortnite, I did all of the core practice and applied exploration and also a small project about parsing that translates a sentence to English and then breaks into parts - POINTS = 15
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_1_Parsing.ipynb
 
-For Fortnite 5-1 i ran all the code and did the exercises that were due 
+For Fortnite 5-1 I ran all the code and did the exercises that were due 
 
 2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_2_MachineLearning.ipynb
 
-This fortnite 5-2 i ran all of the code and answer all of the questions 
+In Fortnite 5-2 I ran all of the code and answered all of the questions 
 
 3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_3_NeuralNetworks.ipynb
 
-This fortnite 5-3 i ran all of the code and tried the applied exploration 
+This Fortnite 5-3 I ran all of the code and tried the applied exploration 
 
 4 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F5_4_Embeddings.ipynb
 
-This fortnite 5-4 i ran the code and answer all of the questions and also tried the applied exploration
+In Fortnite 5-4 I ran the code and answered all of the questions and also tried the applied exploration
 
 ---
 
-This fortnite 5 i did a small project that is about parsing and using google api transalate i make so it translate a sentense to English and then it break it down into parsing 
+In Fortnite 5 I did a small project that was about parsing and using Google API translate to translate a sentence to English and then broke it down into parsing 
 
 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/sentence_splitter.py
 
 ___
-Fortnite 6
+Fortnite 6 - For this Fortnite i did the core practice, applied exploration, and did a video presenting the applied exploration on 6-4 but the video is too big to download - POINTS = 9
 
 1 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_1_NeuralLanguageModeling.ipynb
 
-This fortnite i follow the code and did the applied exploration
+This Fortnite 6-1i followed the code and did the applied exploration
 
 2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_2_RecurrentNeuralNetworks.ipynb
 
-this firtnite i ran the code and did the excersises 
+this Fortnite 6-2 I ran the code and did the exercises 
 
 3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_3_EncoderDecoder.ipynb
 
-I did all of the code and questions and try appliedexploration
+I did all of the code and questions and tried applied exploration 6-3
 
 4 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F6_4_LongTermRecurrence.ipynb
 
-i did all of the code and applied exploration
+I did all of the code and applied exploration in 6-4
 
 ___
-Fortnite 7
+Fortnite 7 For this fortnite I followed every part of the code ran everything tried to tune the models on different datasets and models and also tried to do a chatbot that was about gym tips but it did not work so I just presented the things I had 
 
-1
+1 https://github.co,mIAngel-Castro-RC/Final_NLP/blob/main/F7_1_TransferLearning.ipynb
 
-2
+This Fortnite 7-1 I focused on fixing my errors on the model but I could not make it work I tried different models 
 
-3
+2 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F7_2_AttentionTransformers.ipynb
 
-4
+I follow everything on this Fortnite 7-2
 
+3 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F7_3_ConversationalModels.ipynb
+
+For this 7-3 I followed the code and ran everything 
+
+4 https://github.com/Angel-Castro-RC/Final_NLP/blob/main/F7_4_RLHF.ipynb
+
+in this Fortnite 7-4 I ran everything and tried to make a chatbot about gym and workout tips 
 ___
